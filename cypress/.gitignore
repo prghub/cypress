@@ -1,0 +1,15 @@
+# Node modules
+/node_modules
+
+# Cypress generated files
+/cypress/screenshots
+/cypress/videos
+/cypress/results
+
+# Build output
+/dist
+/build
+
+# .env files and other environment-specific files (optional)
+.env
+.env.local
